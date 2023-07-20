@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokeay
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on making everyone's life more effective
 - 📫 How to reach me ozcang20@itu.edu.tr
 
